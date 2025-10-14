@@ -1,4 +1,4 @@
-#Healthcare Data Lakehouse & Analytics Platform
+# Healthcare Data Lakehouse & Analytics Platform
 
 This repository hosts a scalable, end-to-end data lakehouse and analytics platform for healthcare, built on Databricks, PySpark, Delta Lake, and MLflow. The platform processes synthetic healthcare data (e.g., Synthea Parquet files) to enable advanced analytics, real-time monitoring, and predictive modeling. It addresses key healthcare use cases—patient journey tracking, disease surveillance, quality metrics, demographic analytics, and predictive pipelines—while ensuring compliance, performance, and extensibility.
 
